@@ -1,0 +1,10 @@
+#CONFIGURACIÓN DE LA BASE DE DATOS + COMPROBAR CONEXIÓN
+
+spring:
+  datasource:
+    url: jdbc:mysql://localhost:3306/cloud_vendor?useSSL=false
+    username: root
+    password: LauraMySQL1@
+
+#CONFIGURACIÓN JPA
+  jpa.hibernate.ddl_auto: create
