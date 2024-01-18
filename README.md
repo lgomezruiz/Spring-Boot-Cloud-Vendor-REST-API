@@ -1,4 +1,9 @@
 
+![Imagen1](https://github.com/lgomezruiz/Spring-Boot-Cloud-Vendor-REST-API/assets/97950503/0e20de03-3612-4d5e-84f9-7acf63b05f88)
+![Imagen2](https://github.com/lgomezruiz/Spring-Boot-Cloud-Vendor-REST-API/assets/97950503/78895d05-617f-4a45-b22c-22027455d9a1)
+![Imagen3](https://github.com/lgomezruiz/Spring-Boot-Cloud-Vendor-REST-API/assets/97950503/5b57282f-171b-4902-8a8d-92e749f4d116)
+
+
 Testing Create Method
 
 ![Create](https://github.com/lgomezruiz/Spring-Boot-Cloud-Vendor-REST-API/assets/97950503/9c19f5e1-3ecf-45e7-a6e3-ea34a12570ef)
